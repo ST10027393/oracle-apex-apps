@@ -524,7 +524,7 @@ INSERT INTO staff (
     first_name, last_name, email, phone_number, role, department, hire_date, salary, employment_status, access_level, depot_name
 )
 VALUES (
-    'Craig', 'Roodt', 'craigroodt@containerworld.co.za', '+27 64 345 6789', 'CFO', 'Finance', TO_DATE('2010-01-01', 'YYYY-MM-DD'), 130000, 'Active', 'Admin', 'Durban Depot'
+    'Craige', 'Root', 'craigeroot@containerworld.co.za', '+27 64 345 6789', 'CFO', 'Finance', TO_DATE('2010-01-01', 'YYYY-MM-DD'), 130000, 'Active', 'Admin', 'Durban Depot'
 );
 
 -- Branch Manager for Cape Town Depot
